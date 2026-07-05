@@ -23,7 +23,7 @@ role: Full Stack Developer & Computer Science Student
 location: Thailand
 university: University of Phayao
 focus: [Next.js, TypeScript, Backend Architecture]
-currently_building: Smart Car Wash Management System
+currently_building: Cars Center HUB (Used Car Dealership Platform)
 philosophy: "Bridging engineering and design to build real-world impact"
 ```
 
@@ -71,8 +71,8 @@ philosophy: "Bridging engineering and design to build real-world impact"
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Smart Car Wash Management System
-Comprehensive operations platform featuring real-time record tracking, revenue analytics with weekly/monthly charts, and a mobile-first premium UI.
+### 🚙 Cars Center HUB
+Full-featured used car dealership & broker platform with a public storefront and admin dashboard — real-time finance calculator, advanced search/filtering, multi-image galleries, confidential source tracking, and secure Supabase authentication.
 
 **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
